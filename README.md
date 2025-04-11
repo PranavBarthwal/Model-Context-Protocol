@@ -33,7 +33,7 @@ Now, imagine an LLM that does all of this for you, step by step, with minimal se
 MCP provides production-ready server implementations for common tool integrations, accelerating AI agent development. These open-source servers are available at:  
 **[github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)**  
 
-#### **✨Key Server Categories**  
+#### **Key Server Categories**  
 
 1. **Search & Retrieval**  
    - **AWS KB Retrieval**: Retrieve structured data from AWS Knowledge Base via Bedrock Agent Runtime.  
