@@ -1,4 +1,6 @@
 # Model Context Protocol : Next Big Thing in AI!
+![image](https://github.com/user-attachments/assets/5ce919d7-9f9f-4bc3-8be4-fa52b3503d90)
+
 
 ### **✨AI Agents: Reasoning/Thinking Model Hooked to Tools**  
 
@@ -7,6 +9,7 @@ AI agents combine **Foundational models** (like LLMs) with **external tools** (A
 **Solving this problem comes MCP (Model Control Protocol) Servers, By Anthropic**, a streamlined solution that simplifies integration, manages tool orchestration, and scales AI agent deployments efficiently. By acting as a middleware layer, MCP servers enable seamless communication between reasoning models and external tools, reducing development overhead and improving reliability.
 
 ### ✨Model Context Protocol
+![image](https://github.com/user-attachments/assets/6f76862c-8674-4869-95b6-40b6c0256401)
 
 The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you're building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.
 
